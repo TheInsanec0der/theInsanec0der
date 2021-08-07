@@ -1,4 +1,4 @@
-<span style="display: block; align: center"> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer)](https://git.io/typing-svg)  
+<span style="display: block; align: center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer)  
 ![GitHub followers](https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge)
 </span>
 ## About :heart: 
