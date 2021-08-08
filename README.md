@@ -1,9 +1,11 @@
-<span style="display: block; align: center"> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer)  
-![GitHub followers](https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge)
-</span>
-## About :heart: 
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" />
+  <img align="center" src="https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge" />
+  
+
+## About :heart:
 ##### Hello there! I'm Insane, someone who has a fascination with games and programming. Supplementally I'm a developer in INTERSHIP ™. I ken web development & discord bot development!
 
+  
 ## Projects 📔
 ##### I'm a tyro whose currently working on some authentically epic projects on their way! :D
 
@@ -12,11 +14,14 @@
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642945474097222/icons8-nodejs-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873643161329754222/icons8-bootstrap-48.png">
 
 # Statistics 📈
-![Insane's GitHub stats](https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=tokyonight)
+![Insane's GitHub stats](https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=tokyonight)  
+<br>
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&theme=tokyonight)
+
+
 
 ## Get in touch :handshake:
 - [Github](https://github.com/theInsanec0der)
 - [Discord](https://discord.com/users/828985679396077638)
 - Twitter   (*not yet*)
-
-
