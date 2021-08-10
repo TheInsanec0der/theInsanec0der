@@ -1,8 +1,12 @@
 <p align="center">
+    <a href="https://github.com/theInsanec0der">
 <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" >
+       <a/>
     </p>
     <p align="center">
+        <a href="https://github.com/theInsanec0der">
   <img src="https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge" >
+            </a>
   </p>
 
 
