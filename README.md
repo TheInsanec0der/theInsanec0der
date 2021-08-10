@@ -23,10 +23,8 @@
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/874567986986512434/icons8-markdown-50.png">
 
 # Statistics 📈
-![Insane's GitHub stats](https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=tokyonight)  
-<br>
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=tokyonight"> <p></p><img src="https://lanyard-profile-readme.vercel.app/api/828985679396077638">
+
 
 
 
