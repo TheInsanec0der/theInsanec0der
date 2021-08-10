@@ -1,6 +1,10 @@
-<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" />
-  <img align="center" src="https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge" />
-  
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" >
+    </p>
+    <p align="center">
+  <img src="https://img.shields.io/github/followers/theinsanec0der?color=%23e3d7c7&label=Follow%20me&logo=github&logoColor=%23fffff&style=for-the-badge" >
+  </p>
+
 
 ## About :heart:
 ##### Hello there! I'm Insane, someone who has a fascination with games and programming. Supplementally I'm a developer in INTERSHIP ™. I ken web development & discord bot development!
@@ -25,3 +29,8 @@
 - [Github](https://github.com/theInsanec0der)
 - [Discord](https://discord.com/users/828985679396077638)
 - Twitter   (*not yet*)
+<p align="center">
+  <a href="https://github.com/theInsanec0der">
+<img src="https://forthebadge.com/images/badges/made-with-markdown.svg">
+    </a>
+    </p>
