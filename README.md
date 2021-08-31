@@ -24,8 +24,8 @@
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/874567986986512434/icons8-markdown-50.png">
 
 # Statistics 📈
-<img src="https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=onedark"> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&layout=compact&theme=onedark"> <p></p><img src="https://lanyard-profile-readme.vercel.app/api/828985679396077638">
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=theinsanec0der&show_icons=true&theme=dark">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&layout=compact&theme=dark"> </p>
+<p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/828985679396077638"></p>
 
 
 ## Get in touch :handshake:
