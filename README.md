@@ -31,5 +31,3 @@
 ## Get in touch :handshake:
 - [Github](https://github.com/theInsanec0der)
 - [Discord](https://discord.com/users/828985679396077638)
-- Twitter   (*not yet*)
-
