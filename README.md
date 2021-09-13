@@ -32,8 +32,4 @@
 - [Github](https://github.com/theInsanec0der)
 - [Discord](https://discord.com/users/828985679396077638)
 - Twitter   (*not yet*)
-<p align="center">
-  <a href="https://github.com/theInsanec0der">
-<img src="https://forthebadge.com/images/badges/made-with-markdown.svg">
-    </a>
-    </p>
+
