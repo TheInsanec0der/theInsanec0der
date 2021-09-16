@@ -22,6 +22,11 @@
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/873641462078783579/icons8-visual-studio-code-2019-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873641784373297193/icons8-intellij-idea-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642019833135114/icons8-android-os-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642215153479700/icons8-java-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642462197993542/icons8-javascript-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642654720729119/icons8-html-5-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642804075716688/icons8-css3-48.png"> 
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/873642945474097222/icons8-nodejs-48.png"> <img src="https://cdn.discordapp.com/attachments/864929024072613938/873643161329754222/icons8-bootstrap-48.png">
 <img src="https://cdn.discordapp.com/attachments/864929024072613938/874567986986512434/icons8-markdown-50.png">
+<img src="https://cdn.discordapp.com/attachments/876829765217165342/888018872245059604/icons8-git-48.png">
+<img src="https://cdn.discordapp.com/attachments/876829765217165342/888018890435739688/icons8-google-cloud-48.png">
+<img src="https://cdn.discordapp.com/attachments/876829765217165342/888018909096210502/icons8-google-firebase-console-48.png">
+<img src="https://cdn.discordapp.com/attachments/876829765217165342/888018938653446154/icons8-mongodb-48.png">
+<img src="https://cdn.discordapp.com/attachments/876829765217165342/888019916215681054/icons8-typescript-48.png">
 
 # Statistics 📈
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=theInsanec0der&title_color=68451d&icon_color=68451d&text_color=68451d&bg_color=e4d7c7&show_icons=true">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&layout=compact&theme=dark&title_color=68451d&icon_color=68451d&text_color=68451d&bg_color=e4d7c7"> </p>
