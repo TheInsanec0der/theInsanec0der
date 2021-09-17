@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/theInsanec0der">
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" >
+<img src="https://readme-typing-svg.herokuapp.com?color=E3D7C7&size=21&multiline=true&lines=Hi%2C+I'm+Insane+a+gamer+%26+developer" >
        <a/>
     </p>
     <p align="center">
