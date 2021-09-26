@@ -31,6 +31,7 @@
 # Statistics 📈
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=theInsanec0der&title_color=68451d&icon_color=68451d&text_color=68451d&bg_color=e4d7c7&show_icons=true">&nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theInsanec0der&layout=compact&theme=dark&title_color=68451d&icon_color=68451d&text_color=68451d&bg_color=e4d7c7"> </p>
 <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/828985679396077638"></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=TheInsanec0der&theme=onedark&background=E4D7C7&border=68451D&stroke=68451D&ring=68451D&fire=68451D&currStreakNum=68451D&sideNums=68451D&currStreakLabel=68451D&sideLabels=68451D&dates=68451D"></p>
 
 
 ## Get in touch :handshake:
