@@ -11,7 +11,7 @@
 
 
 ## About :heart:
-##### Hello there! I'm Insane, someone who has a fascination with games and programming. Supplementally I'm a developer in INTERSHIP ™. I ken web development & discord bot development!
+##### Hiya, I'm an individual self-taught developer and gamer. Who mostly works on node.js projects.
 
   
 ## Projects 📔
